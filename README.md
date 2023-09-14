@@ -1,4 +1,4 @@
-# mdbook-template
+# TRIZ x AI
 
 Yield a mdbook demo with [mdbook-theme](https://github.com/zjp-CN/mdbook-theme)
 and a yml file for github action automation and page publication.

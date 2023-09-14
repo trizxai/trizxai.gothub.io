@@ -1,5 +1,5 @@
 # Chapter 1
-Hello World!!
+Hello !
 ## Section 1
 
 ## Section 2
